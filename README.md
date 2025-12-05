@@ -1315,6 +1315,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 ## [EvalView](https://github.com/hidai25/eval-view)
 Open-source pytest-style testing framework for AI agents (LangGraph, CrewAI, OpenAI Assistants, Anthropic & more)
 <details>
+	
 ![EvalView CLI Summary](https://github.com/hidai25/eval-view/blob/main/docs/imgs/runclisummary.png?raw=true)
 ### Category
 Testing & Evaluation, Frameworks, LangGraph, CrewAI, OpenAI Assistants, Anthropic
